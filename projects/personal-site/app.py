@@ -70,12 +70,12 @@ SITE_DATA = {
             },
             {
                 "id": 4,
-                "title": "Conference Site Generator",
-                "category": "Backend",
-                "description": "Dynamic web app deployment framework using Flask and Cloud Run, "
-                               "built as part of the AI Condesa engineering workshops.",
-                "link": "https://github.com/krvax/AI-Club-Condesa-Workshops/tree/main/projects",
-                "icon": "🚀"
+                "title": "Cloud Platform Labs",
+                "category": "SRE & DevOps",
+                "description": "Hands-on labs covering Kubernetes (EKS), Terraform, CI/CD pipelines, "
+                               "ArgoCD GitOps, observability, and Python SRE automation.",
+                "link": "https://github.com/krvax/cloud-platform-labs",
+                "icon": "🧪"
             }
         ],
         "skills": {
@@ -149,12 +149,12 @@ SITE_DATA = {
             },
             {
                 "id": 4,
-                "title": "Conference Site Generator",
-                "category": "Backend",
-                "description": "Framework de despliegue dinámico de aplicaciones web usando Flask "
-                               "y Cloud Run, construido como parte de los workshops de AI Condesa.",
-                "link": "https://github.com/krvax/AI-Club-Condesa-Workshops/tree/main/projects",
-                "icon": "🚀"
+                "title": "Cloud Platform Labs",
+                "category": "SRE & DevOps",
+                "description": "Labs prácticos de Kubernetes (EKS), Terraform, pipelines CI/CD, "
+                               "ArgoCD GitOps, observabilidad y automatización Python para SRE.",
+                "link": "https://github.com/krvax/cloud-platform-labs",
+                "icon": "🧪"
             }
         ],
         "skills": {
