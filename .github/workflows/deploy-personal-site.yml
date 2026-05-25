@@ -10,7 +10,7 @@ on:
 env:
   PROJECT_ID: mx-coatl-aicondesa-workshop02
   REGION: us-central1
-  SERVICE: personal-site
+  SERVICE: miguel-carvajal
 
 jobs:
   deploy:
