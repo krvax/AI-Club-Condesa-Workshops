@@ -8,13 +8,13 @@ app = Flask(__name__)
 SITE_DATA = {
     "en": {
         "ui": {
-            "title_suffix": "Senior Cloud & AI Platform Engineer",
+            "title_suffix": "SRE & AI Platform Engineer",
             "nav_bio": "Bio",
             "nav_projects": "Projects",
             "nav_skills": "Stack",
             "nav_cv": "📄 Resume",
-            "hero_badge": "☁️ Senior Cloud & AI Platform Engineer",
-            "hero_greeting": "Hi, I'm",
+            "hero_badge": "☁️ SRE & AI Platform Engineer",
+            "hero_greeting": "I'm",
             "btn_cv": "📄 Download Resume",
             "projects_title": "Featured Projects",
             "projects_subtitle": "Production architectures, intelligent agents, and cloud-native labs",
@@ -26,11 +26,12 @@ SITE_DATA = {
             "lang_toggle_text": "🇪🇸 ES"
         },
         "profile": {
-            "name": "Miguel Angel Carvajal R",
-            "title": "Senior Cloud & AI Platform Engineer",
-            "bio": "10+ years designing and operating cloud-native infrastructure at scale. "
-                   "Specialized in production AI/LLM platforms (AWS Bedrock, EKS), "
-                   "SRE, CI/CD, and infrastructure automation.",
+            "name": "Miguel Angel Carvajal",
+            "title": "SRE & AI Platform Engineer",
+            "bio": "I build and operate cloud-native platforms at scale. "
+                   "8+ years shipping production infrastructure — from EKS clusters serving AI workloads "
+                   "to CI/CD pipelines, observability stacks, and incident response. "
+                   "Currently focused on AI platform reliability and automation.",
             "location": "Mexico City",
             "email": "krva@ciencias.unam.mx",
             "social": {
@@ -86,13 +87,13 @@ SITE_DATA = {
     },
     "es": {
         "ui": {
-            "title_suffix": "Senior Cloud & AI Platform Engineer",
+            "title_suffix": "SRE & AI Platform Engineer",
             "nav_bio": "Bio",
             "nav_projects": "Proyectos",
             "nav_skills": "Stack",
             "nav_cv": "📄 CV",
-            "hero_badge": "☁️ Senior Cloud & AI Platform Engineer",
-            "hero_greeting": "Hola, soy",
+            "hero_badge": "☁️ SRE & AI Platform Engineer",
+            "hero_greeting": "Soy",
             "btn_cv": "📄 Descargar CV",
             "projects_title": "Proyectos Destacados",
             "projects_subtitle": "Arquitecturas en producción, agentes inteligentes y laboratorios cloud-native",
@@ -104,11 +105,12 @@ SITE_DATA = {
             "lang_toggle_text": "🇺🇸 EN"
         },
         "profile": {
-            "name": "Miguel Angel Carvajal R",
-            "title": "Senior Cloud & AI Platform Engineer",
-            "bio": "10+ años diseñando y operando infraestructura cloud-native a escala. "
-                   "Especializado en plataformas AI/LLM en producción (AWS Bedrock, EKS), "
-                   "SRE, CI/CD y automatización de infraestructura.",
+            "name": "Miguel Angel Carvajal",
+            "title": "SRE & AI Platform Engineer",
+            "bio": "Construyo y opero plataformas cloud-native a escala. "
+                   "8+ años llevando infraestructura a producción — desde clusters EKS sirviendo workloads de AI "
+                   "hasta pipelines CI/CD, stacks de observabilidad e incident response. "
+                   "Actualmente enfocado en reliability de plataformas AI y automatización.",
             "location": "Ciudad de México",
             "email": "krva@ciencias.unam.mx",
             "social": {
