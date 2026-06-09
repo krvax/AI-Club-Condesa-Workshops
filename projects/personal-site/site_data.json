@@ -1,0 +1,212 @@
+{
+  "en": {
+    "ui": {
+      "title_suffix": "SRE & AI Platform Engineer",
+      "nav_bio": "Bio",
+      "nav_projects": "Projects",
+      "nav_skills": "Stack",
+      "nav_cv": "📄 Resume",
+      "hero_badge": "☁️ SRE & AI Platform Engineer",
+      "hero_greeting": "I'm",
+      "btn_cv": "📄 Download Resume",
+      "projects_title": "Featured Projects",
+      "projects_subtitle": "Production architectures, intelligent agents, and cloud-native labs",
+      "btn_project": "View Project",
+      "skills_title": "Tech Stack",
+      "skills_subtitle": "Tools and platforms I use daily in production",
+      "footer_made_with": "Made with ❤️ in Mexico City",
+      "lang_toggle_url": "?lang=es",
+      "lang_toggle_text": "🇪🇸 ES"
+    },
+    "profile": {
+      "name": "Miguel Ángel Carvajal Ramos",
+      "title": "Senior Cloud & Platform Engineer",
+      "contact": {
+        "phone": "+52 720 805 4403",
+        "email": "krva@ciencias.unam.mx",
+        "location": "Mexico City, MX",
+        "linkedin": "linkedin.com/in/miguel-carvajal"
+      },
+      "summary": "Senior Cloud & Platform Engineer with 10+ years of experience designing, automating and operating enterprise cloud platforms across Azure, AWS and GCP. Specialized in Kubernetes, Terraform, Azure Platform Services, API Management, Identity & Access Management, Observability and Site Reliability Engineering. Deep SRE foundation — CI/CD, IaC, incident management, SLO/SLI — applied to both traditional infrastructure and emerging AI/LLMOps reliability.\n"
+    },
+    "projects": [
+      {
+        "id": 1,
+        "title": "AI Code Review Agent",
+        "category": "Project",
+        "description": "Agentic system built with LangGraph + FastAPI + FAISS that performs automated code reviews on PR diffs. Integrates real tool calling (ruff linter, test coverage), RAG over repo conventions, dynamic context trimming, and structured JSON logging. Deployed via Docker Compose with GitHub Actions CI/CD pipeline.\n",
+        "link": "",
+        "icon": "🚀"
+      }
+    ],
+    "skills": {
+      "AI & LLM Platform": [
+        "AWS Bedrock (Claude, Titan)",
+        "LangGraph",
+        "LangChain",
+        "RAG pipelines",
+        "MCP (Model Context Protocol)",
+        "LibreChat",
+        "vector databases (FAISS, Chroma)",
+        "LangSmith"
+      ],
+      "Infrastructure & DevOps": [
+        "Terraform",
+        "Terragrunt",
+        "Ansible",
+        "GitLab CI/CD",
+        "GitHub Actions",
+        "Jenkins",
+        "Kubernetes (AKS, EKS)",
+        "Helm",
+        "GitOps (ArgoCD)",
+        "Docker"
+      ],
+      "Cloud Platforms": [
+        "Azure (AKS, APIM, Event Hubs, Entra ID, Managed Identities, Log Analytics, Application Insights)",
+        "AWS (EC2, EKS, RDS, Lambda, CloudFormation, SSM, S3)",
+        "GCP (Vertex AI, BigQuery, Cloud Storage)",
+        "OCI"
+      ],
+      "Security & CDN": [
+        "Akamai CDN",
+        "Imperva WAF",
+        "SSL/TLS management",
+        "API Gateway security"
+      ],
+      "Release & Incident Management": [
+        "ServiceNow",
+        "PagerDuty",
+        "SLO/SLI/SLA definition",
+        "RCA",
+        "blameless post-mortems",
+        "on-call rotation"
+      ],
+      "Programming": [
+        "Python",
+        "Bash",
+        "JavaScript/React",
+        "FastAPI",
+        "Java",
+        "C#"
+      ],
+      "Monitoring & Observability": [
+        "Azure Monitor",
+        "Application Insights",
+        "Log Analytics",
+        "Datadog",
+        "New Relic",
+        "Grafana",
+        "Prometheus",
+        "Splunk",
+        "CloudWatch",
+        "LangSmith"
+      ]
+    }
+  },
+  "es": {
+    "ui": {
+      "title_suffix": "SRE & AI Platform Engineer",
+      "nav_bio": "Bio",
+      "nav_projects": "Proyectos",
+      "nav_skills": "Stack",
+      "nav_cv": "📄 CV",
+      "hero_badge": "☁️ SRE & AI Platform Engineer",
+      "hero_greeting": "Soy",
+      "btn_cv": "📄 Descargar CV",
+      "projects_title": "Proyectos Destacados",
+      "projects_subtitle": "Arquitecturas en producción, agentes inteligentes y laboratorios cloud-native",
+      "btn_project": "Ver Proyecto",
+      "skills_title": "Stack Tecnológico",
+      "skills_subtitle": "Herramientas y plataformas que uso a diario en producción",
+      "footer_made_with": "Hecho con ❤️ en Ciudad de México",
+      "lang_toggle_url": "?lang=en",
+      "lang_toggle_text": "🇺🇸 EN"
+    },
+    "profile": {
+      "name": "Miguel Ángel Carvajal Ramos",
+      "title": "Senior Cloud & Platform Engineer",
+      "contact": {
+        "phone": "+52 720 805 4403",
+        "email": "krva@ciencias.unam.mx",
+        "location": "Mexico City, MX",
+        "linkedin": "linkedin.com/in/miguel-carvajal"
+      },
+      "summary": "Senior Cloud & Platform Engineer with 10+ years of experience designing, automating and operating enterprise cloud platforms across Azure, AWS and GCP. Specialized in Kubernetes, Terraform, Azure Platform Services, API Management, Identity & Access Management, Observability and Site Reliability Engineering. Deep SRE foundation — CI/CD, IaC, incident management, SLO/SLI — applied to both traditional infrastructure and emerging AI/LLMOps reliability.\n"
+    },
+    "projects": [
+      {
+        "id": 1,
+        "title": "AI Code Review Agent",
+        "category": "Project",
+        "description": "Agentic system built with LangGraph + FastAPI + FAISS that performs automated code reviews on PR diffs. Integrates real tool calling (ruff linter, test coverage), RAG over repo conventions, dynamic context trimming, and structured JSON logging. Deployed via Docker Compose with GitHub Actions CI/CD pipeline.\n",
+        "link": "",
+        "icon": "🚀"
+      }
+    ],
+    "skills": {
+      "AI & LLM Platform": [
+        "AWS Bedrock (Claude, Titan)",
+        "LangGraph",
+        "LangChain",
+        "RAG pipelines",
+        "MCP (Model Context Protocol)",
+        "LibreChat",
+        "vector databases (FAISS, Chroma)",
+        "LangSmith"
+      ],
+      "Infrastructure & DevOps": [
+        "Terraform",
+        "Terragrunt",
+        "Ansible",
+        "GitLab CI/CD",
+        "GitHub Actions",
+        "Jenkins",
+        "Kubernetes (AKS, EKS)",
+        "Helm",
+        "GitOps (ArgoCD)",
+        "Docker"
+      ],
+      "Cloud Platforms": [
+        "Azure (AKS, APIM, Event Hubs, Entra ID, Managed Identities, Log Analytics, Application Insights)",
+        "AWS (EC2, EKS, RDS, Lambda, CloudFormation, SSM, S3)",
+        "GCP (Vertex AI, BigQuery, Cloud Storage)",
+        "OCI"
+      ],
+      "Security & CDN": [
+        "Akamai CDN",
+        "Imperva WAF",
+        "SSL/TLS management",
+        "API Gateway security"
+      ],
+      "Release & Incident Management": [
+        "ServiceNow",
+        "PagerDuty",
+        "SLO/SLI/SLA definition",
+        "RCA",
+        "blameless post-mortems",
+        "on-call rotation"
+      ],
+      "Programming": [
+        "Python",
+        "Bash",
+        "JavaScript/React",
+        "FastAPI",
+        "Java",
+        "C#"
+      ],
+      "Monitoring & Observability": [
+        "Azure Monitor",
+        "Application Insights",
+        "Log Analytics",
+        "Datadog",
+        "New Relic",
+        "Grafana",
+        "Prometheus",
+        "Splunk",
+        "CloudWatch",
+        "LangSmith"
+      ]
+    }
+  }
+}
