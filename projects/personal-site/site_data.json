@@ -20,14 +20,14 @@
     },
     "profile": {
       "name": "Miguel Ángel Carvajal Ramos",
-      "title": "Senior Cloud & Platform Engineer",
+      "title": "Senior Site Reliability and Platform Engineer",
       "contact": {
         "phone": "+52 720 805 4403",
         "email": "krva@ciencias.unam.mx",
         "location": "Mexico City, MX",
         "linkedin": "linkedin.com/in/miguel-carvajal"
       },
-      "summary": "Senior Cloud & Platform Engineer with 10+ years of experience designing, automating and operating enterprise cloud platforms across Azure, AWS and GCP. Specialized in Kubernetes, Terraform, Azure Platform Services, API Management, Identity & Access Management, Observability and Site Reliability Engineering. Deep SRE foundation — CI/CD, IaC, incident management, SLO/SLI — applied to both traditional infrastructure and emerging AI/LLMOps reliability.\n"
+      "summary": "Senior Site Reliability and Platform Engineer with 10+ years operating production systems at scale. Specialized in AWS, Kubernetes, AI/LLM platforms, incident response, automation, and reliability engineering. Experienced building agentic AI systems using Bedrock, LangGraph, MCP, and cloud-native platforms while maintaining production SLOs through automation, observability, and operational excellence.\n"
     },
     "projects": [
       {
@@ -40,14 +40,16 @@
       }
     ],
     "skills": {
-      "AI & LLM Platform": [
-        "AWS Bedrock (Claude, Titan)",
+      "Agentic AI & AIOps": [
+        "AWS Bedrock",
+        "MCP (Model Context Protocol)",
         "LangGraph",
         "LangChain",
-        "RAG pipelines",
-        "MCP (Model Context Protocol)",
-        "LibreChat",
-        "vector databases (FAISS, Chroma)",
+        "AI Agents",
+        "Agentic Workflows",
+        "AI-assisted Incident Response",
+        "RAG",
+        "Vector Databases",
         "LangSmith"
       ],
       "Infrastructure & DevOps": [
@@ -57,15 +59,15 @@
         "GitLab CI/CD",
         "GitHub Actions",
         "Jenkins",
-        "Kubernetes (AKS, EKS)",
+        "Kubernetes (EKS, AKS)",
         "Helm",
         "GitOps (ArgoCD)",
         "Docker"
       ],
       "Cloud Platforms": [
-        "Azure (AKS, APIM, Event Hubs, Entra ID, Managed Identities, Log Analytics, Application Insights)",
-        "AWS (EC2, EKS, RDS, Lambda, CloudFormation, SSM, S3)",
-        "GCP (Vertex AI, BigQuery, Cloud Storage)",
+        "AWS (EKS, EC2, RDS, Lambda, CloudFormation, SSM, S3)",
+        "GCP (Vertex AI, BigQuery, Cloud Run, Cloud Storage)",
+        "Azure (AKS, APIM, Entra ID, Log Analytics)",
         "OCI"
       ],
       "Security & CDN": [
@@ -91,15 +93,14 @@
         "C#"
       ],
       "Monitoring & Observability": [
-        "Azure Monitor",
-        "Application Insights",
-        "Log Analytics",
         "Datadog",
         "New Relic",
         "Grafana",
         "Prometheus",
-        "Splunk",
         "CloudWatch",
+        "Splunk",
+        "Azure Monitor",
+        "Log Analytics",
         "LangSmith"
       ]
     }
@@ -125,14 +126,14 @@
     },
     "profile": {
       "name": "Miguel Ángel Carvajal Ramos",
-      "title": "Senior Cloud & Platform Engineer",
+      "title": "Senior Site Reliability and Platform Engineer",
       "contact": {
         "phone": "+52 720 805 4403",
         "email": "krva@ciencias.unam.mx",
         "location": "Mexico City, MX",
         "linkedin": "linkedin.com/in/miguel-carvajal"
       },
-      "summary": "Senior Cloud & Platform Engineer with 10+ years of experience designing, automating and operating enterprise cloud platforms across Azure, AWS and GCP. Specialized in Kubernetes, Terraform, Azure Platform Services, API Management, Identity & Access Management, Observability and Site Reliability Engineering. Deep SRE foundation — CI/CD, IaC, incident management, SLO/SLI — applied to both traditional infrastructure and emerging AI/LLMOps reliability.\n"
+      "summary": "Senior Site Reliability and Platform Engineer with 10+ years operating production systems at scale. Specialized in AWS, Kubernetes, AI/LLM platforms, incident response, automation, and reliability engineering. Experienced building agentic AI systems using Bedrock, LangGraph, MCP, and cloud-native platforms while maintaining production SLOs through automation, observability, and operational excellence.\n"
     },
     "projects": [
       {
@@ -145,14 +146,16 @@
       }
     ],
     "skills": {
-      "AI & LLM Platform": [
-        "AWS Bedrock (Claude, Titan)",
+      "Agentic AI & AIOps": [
+        "AWS Bedrock",
+        "MCP (Model Context Protocol)",
         "LangGraph",
         "LangChain",
-        "RAG pipelines",
-        "MCP (Model Context Protocol)",
-        "LibreChat",
-        "vector databases (FAISS, Chroma)",
+        "AI Agents",
+        "Agentic Workflows",
+        "AI-assisted Incident Response",
+        "RAG",
+        "Vector Databases",
         "LangSmith"
       ],
       "Infrastructure & DevOps": [
@@ -162,15 +165,15 @@
         "GitLab CI/CD",
         "GitHub Actions",
         "Jenkins",
-        "Kubernetes (AKS, EKS)",
+        "Kubernetes (EKS, AKS)",
         "Helm",
         "GitOps (ArgoCD)",
         "Docker"
       ],
       "Cloud Platforms": [
-        "Azure (AKS, APIM, Event Hubs, Entra ID, Managed Identities, Log Analytics, Application Insights)",
-        "AWS (EC2, EKS, RDS, Lambda, CloudFormation, SSM, S3)",
-        "GCP (Vertex AI, BigQuery, Cloud Storage)",
+        "AWS (EKS, EC2, RDS, Lambda, CloudFormation, SSM, S3)",
+        "GCP (Vertex AI, BigQuery, Cloud Run, Cloud Storage)",
+        "Azure (AKS, APIM, Entra ID, Log Analytics)",
         "OCI"
       ],
       "Security & CDN": [
@@ -196,15 +199,14 @@
         "C#"
       ],
       "Monitoring & Observability": [
-        "Azure Monitor",
-        "Application Insights",
-        "Log Analytics",
         "Datadog",
         "New Relic",
         "Grafana",
         "Prometheus",
-        "Splunk",
         "CloudWatch",
+        "Splunk",
+        "Azure Monitor",
+        "Log Analytics",
         "LangSmith"
       ]
     }
