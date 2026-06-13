@@ -21,20 +21,23 @@
     "profile": {
       "name": "Miguel Ángel Carvajal Ramos",
       "title": "Senior Site Reliability and Platform Engineer",
+      "email": "krva@ciencias.unam.mx",
+      "bio": "Senior Site Reliability and Platform Engineer with 10+ years operating production systems at scale. Specialized in AWS, Kubernetes, AI/LLM platforms, incident response, automation, and reliability engineering. Experienced building agentic AI systems using Bedrock, LangGraph, MCP, and cloud-native platforms while maintaining production SLOs through automation, observability, and operational excellence.",
+      "social": {
+        "github": "https://github.com/krvax",
+        "linkedin": "https://linkedin.com/in/miguel-carvajal"
+      },
       "contact": {
         "phone": "+52 720 805 4403",
-        "email": "krva@ciencias.unam.mx",
-        "location": "Mexico City, MX",
-        "linkedin": "linkedin.com/in/miguel-carvajal"
-      },
-      "summary": "Senior Site Reliability and Platform Engineer with 10+ years operating production systems at scale. Specialized in AWS, Kubernetes, AI/LLM platforms, incident response, automation, and reliability engineering. Experienced building agentic AI systems using Bedrock, LangGraph, MCP, and cloud-native platforms while maintaining production SLOs through automation, observability, and operational excellence.\n"
+        "location": "Mexico City, MX"
+      }
     },
     "projects": [
       {
         "id": 1,
         "title": "AI Code Review Agent",
         "category": "Project",
-        "description": "Agentic system built with LangGraph + FastAPI + FAISS that performs automated code reviews on PR diffs. Integrates real tool calling (ruff linter, test coverage), RAG over repo conventions, dynamic context trimming, and structured JSON logging. Deployed via Docker Compose with GitHub Actions CI/CD pipeline.\n",
+        "description": "Agentic system built with LangGraph + FastAPI + FAISS that performs automated code reviews on PR diffs. Integrates real tool calling (ruff linter, test coverage), RAG over repo conventions, dynamic context trimming, and structured JSON logging. Deployed via Docker Compose with GitHub Actions CI/CD pipeline.",
         "link": "",
         "icon": "🚀"
       }
@@ -127,20 +130,23 @@
     "profile": {
       "name": "Miguel Ángel Carvajal Ramos",
       "title": "Senior Site Reliability and Platform Engineer",
+      "email": "krva@ciencias.unam.mx",
+      "bio": "Senior Site Reliability and Platform Engineer con más de 10 años operando sistemas en producción a escala. Especializado en AWS, Kubernetes, plataformas AI/LLM, respuesta a incidentes, automatización e ingeniería de confiabilidad. Experiencia construyendo sistemas agénticos con Bedrock, LangGraph y MCP, manteniendo SLOs en producción mediante automatización, observabilidad y excelencia operacional.",
+      "social": {
+        "github": "https://github.com/krvax",
+        "linkedin": "https://linkedin.com/in/miguel-carvajal"
+      },
       "contact": {
         "phone": "+52 720 805 4403",
-        "email": "krva@ciencias.unam.mx",
-        "location": "Mexico City, MX",
-        "linkedin": "linkedin.com/in/miguel-carvajal"
-      },
-      "summary": "Senior Site Reliability and Platform Engineer with 10+ years operating production systems at scale. Specialized in AWS, Kubernetes, AI/LLM platforms, incident response, automation, and reliability engineering. Experienced building agentic AI systems using Bedrock, LangGraph, MCP, and cloud-native platforms while maintaining production SLOs through automation, observability, and operational excellence.\n"
+        "location": "Ciudad de México, MX"
+      }
     },
     "projects": [
       {
         "id": 1,
         "title": "AI Code Review Agent",
-        "category": "Project",
-        "description": "Agentic system built with LangGraph + FastAPI + FAISS that performs automated code reviews on PR diffs. Integrates real tool calling (ruff linter, test coverage), RAG over repo conventions, dynamic context trimming, and structured JSON logging. Deployed via Docker Compose with GitHub Actions CI/CD pipeline.\n",
+        "category": "Proyecto",
+        "description": "Sistema agéntico construido con LangGraph + FastAPI + FAISS que realiza revisiones automatizadas de código sobre PR diffs. Integra tool calling real (ruff linter, cobertura de tests), RAG sobre convenciones del repo, recorte dinámico de contexto y logging estructurado JSON. Desplegado con Docker Compose y pipeline CI/CD con GitHub Actions.",
         "link": "",
         "icon": "🚀"
       }
@@ -153,12 +159,12 @@
         "LangChain",
         "AI Agents",
         "Agentic Workflows",
-        "AI-assisted Incident Response",
+        "Respuesta a incidentes asistida por IA",
         "RAG",
         "Vector Databases",
         "LangSmith"
       ],
-      "Infrastructure & DevOps": [
+      "Infraestructura & DevOps": [
         "Terraform",
         "Terragrunt",
         "Ansible",
@@ -170,27 +176,27 @@
         "GitOps (ArgoCD)",
         "Docker"
       ],
-      "Cloud Platforms": [
+      "Plataformas Cloud": [
         "AWS (EKS, EC2, RDS, Lambda, CloudFormation, SSM, S3)",
         "GCP (Vertex AI, BigQuery, Cloud Run, Cloud Storage)",
         "Azure (AKS, APIM, Entra ID, Log Analytics)",
         "OCI"
       ],
-      "Security & CDN": [
+      "Seguridad & CDN": [
         "Akamai CDN",
         "Imperva WAF",
-        "SSL/TLS management",
-        "API Gateway security"
+        "Gestión SSL/TLS",
+        "Seguridad en API Gateway"
       ],
-      "Release & Incident Management": [
+      "Release & Gestión de Incidentes": [
         "ServiceNow",
         "PagerDuty",
-        "SLO/SLI/SLA definition",
+        "Definición SLO/SLI/SLA",
         "RCA",
-        "blameless post-mortems",
-        "on-call rotation"
+        "post-mortems sin culpa",
+        "rotación on-call"
       ],
-      "Programming": [
+      "Programación": [
         "Python",
         "Bash",
         "JavaScript/React",
@@ -198,7 +204,7 @@
         "Java",
         "C#"
       ],
-      "Monitoring & Observability": [
+      "Monitoreo & Observabilidad": [
         "Datadog",
         "New Relic",
         "Grafana",
